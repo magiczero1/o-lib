@@ -8,7 +8,8 @@ LIB is a free and open source software for PC.
 <details>
 <summary><span style="color: #4a77d4">找到我</span></summary>
 [Bilibili](https://space.bilibili.com/19276680) 
-[公众号](https://space.bilibili.com/19276680)
+[公众号]
+[![](http://pic.11xy.cn/miniolib/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)]
 </details>
 
 <details>
@@ -31,3 +32,4 @@ LIB is a free and open source software for PC.
 # Interface-界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
 ![img.png](img.png)
 ![img_1.png](img_1.png)
+
