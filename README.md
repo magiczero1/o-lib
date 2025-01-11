@@ -1,35 +1,34 @@
 <div align="center">
- 开源图书(Olib)
+ <h1>开源图书(Olib)</h1>
 <br>
 LIB is a free and open source software for PC.
 </div>
-<br>
 
+
+<div class="follow"><h2>找到我</h2> <br>
+	<img src="http://pic.11xy.cn/miniolib/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" height="200px" width="200px">公众号</img>
+ <br>
+ [Bilibili](https://space.bilibili.com/19276680) 
+</div>
+
+
+
+
+
+<h2 style="color: #ff736b"><summary>功能简介</summary></h2>
 <details>
-<summary><span style="color: #4a77d4">找到我</span></summary>
-[Bilibili](https://space.bilibili.com/19276680) 
-[公众号]
-[![](http://pic.11xy.cn/miniolib/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)]
+1.软件开源，持续优化，无广告。<br>
+2.便捷搜索  <br>
+3.自定义文件存储位置<br>
 </details>
-
-<details>
-<summary><span style="color: #ff736b">功能简介</span></summary>
-1.软件开源，持续优化，无广告。
-2.便捷搜索
-3.自定义文件存储位置
-</details>
-
-<details>
-<summary><span style="color: #0eefce">免责声明</span></summary>
-<ul>
-<ol>1.软件为独立运行软件,资源聚合自互联网,未对任何互联网资源提供存储。</ol>
-<ol>2.本软件为公益软件,不保证所有功能完全有效,如果无法正常使用，请您即刻删除。</ol>
-<ol>3.本工具无需连接外网，且未使用任何技术突破国内网络，具体使用情况与您当前网络环境有关，请您悉知。</ol>
-<ol>4.请您遵守所在地的法律法规，切勿使用本工具进行违法违规行为，否则应自行承担使用后果。</ol>
-</ul>
-</details>
-
+<div class="statement">
+    <h2 style="color: #0eefce">免责声明</h2>
+    <span>
+	1.软件为独立运行软件,资源聚合自互联网,未对任何互联网资源提供存储。<br>
+	2.本软件为公益软件,不保证所有功能完全有效,如果无法正常使用，请您即刻删除。<br>
+	3.本工具无需连接外网，且未使用任何技术突破国内网络，具体使用情况与您当前网络环境有关，请您悉知。<br>
+	4.请您遵守所在地的法律法规，切勿使用本工具进行违法违规行为，否则应自行承担使用后果。<br>
+   	</span>
+</div>
 # Interface-界面 [![](https://img.shields.io/badge/-Interface-F5F5F5.svg)](#Interface-界面-)
-![img.png](img.png)
-![img_1.png](img_1.png)
 
