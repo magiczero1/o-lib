@@ -6,8 +6,7 @@ LIB is a free and open source software for PC.
 
 
 <div class="follow">
-	
-	<h2><summary>找到我</h2></summary><br>
+	<h2><summary>找到我</summary></h2><br>
 	<img src="http://pic.11xy.cn/miniolib/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" height="200px" width="200px">公众号</img>
  <br>
 	<a href="https://space.bilibili.com/19276680" target="_blank">Bilibili</a>
