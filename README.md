@@ -5,24 +5,23 @@ LIB is a free and open source software for PC.
 </div>
 
 
-<div class="follow"><h2>找到我</h2> <br>
+<div class="follow">
+	<h2><summary>找到我</h2></summary><br>
 	<img src="http://pic.11xy.cn/miniolib/%E5%85%AC%E4%BC%97%E5%8F%B7.jpg" height="200px" width="200px">公众号</img>
  <br>
 	<a href="https://space.bilibili.com/19276680" target="_blank">Bilibili</a>
 </div>
 
-
-
-
-
-<h2 style="color: #ff736b"><summary>功能简介</summary></h2>
-<details>
-1.软件开源，持续优化，无广告。<br>
-2.便捷搜索  <br>
-3.自定义文件存储位置<br>
-</details>
+<div class="functions">
+	<h2 style="color: #ff736b"><summary>功能简介</summary></h2>
+	<details>
+	1.软件开源，持续优化，无广告。<br>
+	2.便捷搜索  <br>
+	3.自定义文件存储位置<br>
+	</details>
+</div>
 <div class="statement">
-    <h2 style="color: #0eefce">免责声明</h2>
+    <h2 style="color: #0eefce"><summary>免责声明</summary></h2>
     <span>
 	1.软件为独立运行软件,资源聚合自互联网,未对任何互联网资源提供存储。<br>
 	2.本软件为公益软件,不保证所有功能完全有效,如果无法正常使用，请您即刻删除。<br>
