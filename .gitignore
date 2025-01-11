@@ -1,0 +1,9 @@
+logs/
+dist/
+build/
+*.pyc
+pyarmor-regcode-3496.txt
+pyarmor打包命令.txt
+configo.ini
+*.env
+*.spec
