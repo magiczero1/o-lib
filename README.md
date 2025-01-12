@@ -1,7 +1,8 @@
+<div class="warning" style="font-color:red;">编译后不可直接使用</div><br>
 <div align="center">
  <h1>开源图书(Olib)</h1>
 <br>
-LIB is a free and open source software for PC.
+Olib is a free and open source software for PC.
 </div>
 
 
